@@ -4,3 +4,4 @@ github,linux
 dev add something
 master add other
 dev add other
+github add other
